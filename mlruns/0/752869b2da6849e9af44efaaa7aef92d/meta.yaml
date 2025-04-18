@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SECURITY/mlruns/0/752869b2da6849e9af44efaaa7aef92d/artifacts
+end_time: 1744987098770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 752869b2da6849e9af44efaaa7aef92d
+run_name: charming-bee-982
+run_uuid: 752869b2da6849e9af44efaaa7aef92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744987092836
+status: 3
+tags: []
+user_id: hp
